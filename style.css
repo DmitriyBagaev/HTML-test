@@ -717,10 +717,10 @@ body {
 .product-details {
     margin-top: 72px;
 }
-.product-details-image {
+.product-details-image-1 {
     width: 570px;
     height: 570px;
-    background-image: url("img/product-details-image.jpg");
+    background-image: url("img/product-details-image-1.jpg");
     float: left;
 }
 
