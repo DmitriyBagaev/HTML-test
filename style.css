@@ -547,8 +547,7 @@ body {
     padding-left: 19px;
     padding-right: 14px;
     background-image: url(img/feedback.png);
-    background-repeat-x: no-repeat;
-    background-repeat-y: no-repeat;
+    background-repeat: no-repeat;
     background-position-x: 328px;
     background-position-y: 16px;
     margin-top: 24px;
